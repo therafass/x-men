@@ -79,7 +79,7 @@ body::before {
   text-transform: uppercase;
 }
 
-.personagem-selecionado .descriçao-personagem {
+.personagem-selecionado .descricao-personagem {
   font-size: 16px;
   line-height: 22px;
   text-align: center;
